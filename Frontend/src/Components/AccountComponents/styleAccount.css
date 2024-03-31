@@ -1,0 +1,13 @@
+.card-signIn{
+    border: none;
+    background-color: white;
+}
+.form-SignIn{
+    font-size: medium;
+}
+.btn-signIn{
+    background-color: rgb(158, 120, 194);
+}
+.btn-signIn:hover{
+    background-color: rgb(28, 4, 50);
+}
